@@ -1,0 +1,45 @@
+.office-main {
+    max-width: 600px;
+    margin: auto;
+  }
+
+  .office-main h2 {
+    margin-top: 10px;
+    text-align: center;
+    font-size: 40px;
+  }
+  
+  .office-main p {
+    text-align: center;
+    font-size: 22px;
+    text-decoration: underline;
+    margin-top: 20px;
+  }
+  
+  .office-main ul {
+    list-style-type: none;
+    padding: 0;
+  }
+  
+  .office-main li {
+    font-size: 18px;
+    margin-top: 44px;
+    margin-bottom: 44px;
+    margin-left: 18px;  
+  }
+  
+  .office-main a {
+    display: inline-block;
+    padding: 6px 41px;
+    background-color: #007bff;
+    color: #fff;
+    text-decoration: none;
+    border-radius: 5px;
+    font-size: 22px;
+    margin-left: 70px;
+  }
+  
+  .office-main a:hover {
+    background-color: #0056b3;
+  }
+  
